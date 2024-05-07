@@ -1,0 +1,14 @@
+{
+  "type": "code",
+  "modid": "krpglib",
+  "name": "KRPGLib",
+  "authors": [
+    "BloodThunder"
+  ],
+  "description": "Core library for all Kronos RPG mods",
+  "version": "0.1.2",
+  "side": "Server",
+  "dependencies": {
+    "game": ""
+  }
+}
